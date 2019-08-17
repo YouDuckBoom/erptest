@@ -42,7 +42,7 @@
             <i class="el-icon-lock"></i>锁屏
           </el-menu-item>
           <el-menu-item index="2-4">
-            <i class="el-icon-switch-button"></i>注销
+            <i class="el-icon-switch-button"></i>注
           </el-menu-item>
         </el-submenu>
       </el-menu>
